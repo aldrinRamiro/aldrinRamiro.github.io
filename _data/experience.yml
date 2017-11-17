@@ -1,0 +1,29 @@
+- position: Introduction to Computer Science (CSC148)
+  company: University of Toronto
+  date: Winter 2016
+  details:
+    - point: Program Design Principles
+    - point: Object-Oriented Programming
+    - point: Recursion & Recursive Data Structures (Linked Lists, Trees)
+    - point: Sorting
+    - point: Efficiency
+
+- position: Software Design (CSC207)
+  company: University of Toronto
+  date: Fall 2017
+  details:
+    - point: Software Development Process (SCRUM)
+    - point: Version Control (Git)
+    - point: Build Management
+    - point: Unit Testing
+    - point: Design Patterns
+    - point: Regex
+
+- position: Introduction to the Theory of Computation (CSC236)
+  company: University of Toronto
+  date: Fall 2017
+  details:
+    - point: Program Correctness
+    - point: Solving Algorithmic Problems
+    - point: Program Efficiency (Recursive Algorithms)
+    - point: Invariants

@@ -1,0 +1,26 @@
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Relevant Courses</h2>
+  {% for job in site.data.experience %}
+  <div class="item">
+    <div class="meta">
+      <div class="upper-row">
+        <h3 class="job-title">{{ job.position }}</h3>
+        <div class="time">{{ job.date }}</div>
+      </div>
+      <!--//upper-row-->
+      <div class="company">{{ job.company }}</div>
+    </div>
+    <!--//meta-->
+    <ul>
+      {% for point in job.details %}
+      <li>{{point.point}}</li>
+      {% endfor %}
+    </ul>
+    <!--//details-->
+  </div>
+  <!--//item-->
+
+  {% endfor %}
+
+</section>
+<!--//section-->
