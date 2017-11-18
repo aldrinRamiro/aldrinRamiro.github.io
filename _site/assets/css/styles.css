@@ -94,7 +94,7 @@ p {
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
   font-size: 18px;
-  vertical-align: middle;
+  vertical-align: top;
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
@@ -103,7 +103,7 @@ p {
   margin-bottom: 0;
 }
 .sidebar-wrapper .contact-list .email .fa {
-  font-size: 14px;
+  font-size: 18px;
 }
 .sidebar-wrapper .container-block {
   padding: 30px;
