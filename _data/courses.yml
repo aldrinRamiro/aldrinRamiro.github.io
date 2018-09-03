@@ -27,3 +27,22 @@
     - point: Solving Algorithmic Problems
     - point: Program Efficiency (Recursive Algorithms)
     - point: Invariants
+
+- name: Software Tools and Systems Programming (CSC209)
+  school: University of Toronto
+  date: Winter 2018
+  details:
+    - point: C
+    - point: Memory Model
+    - point: Systems Structures (Files, Sockets, Processes)
+
+- name: Computer Organization (CSC258)
+  school: University of Toronto
+  date: Winter 2018
+  details:
+    - point: Computer Architecture
+    - point: Assembly Programming
+    - point: Machine Languages
+    - point: Processors
+    - point: Circuits
+    - point: Memory Hierarchy
