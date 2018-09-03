@@ -1,6 +1,6 @@
 - name: Introduction to Computer Science (CSC148)
   school: University of Toronto
-  date: Winter 2016
+  date: Jan-Apr 2017
   details:
     - point: Program Design Principles
     - point: Object-Oriented Programming
@@ -10,7 +10,7 @@
 
 - name: Software Design (CSC207)
   school: University of Toronto
-  date: Fall 2017
+  date: Sept-Dec 2017
   details:
     - point: Software Development Process (SCRUM)
     - point: Version Control (Git)
@@ -21,7 +21,7 @@
 
 - name: Introduction to the Theory of Computation (CSC236)
   school: University of Toronto
-  date: Fall 2017
+  date: Sept-Dec 2017
   details:
     - point: Program Correctness
     - point: Solving Algorithmic Problems
@@ -30,7 +30,7 @@
 
 - name: Software Tools and Systems Programming (CSC209)
   school: University of Toronto
-  date: Winter 2018
+  date: Jan-Apr 2018
   details:
     - point: C
     - point: Memory Model
@@ -38,7 +38,7 @@
 
 - name: Computer Organization (CSC258)
   school: University of Toronto
-  date: Winter 2018
+  date: Jan-Apr 2018
   details:
     - point: Computer Architecture
     - point: Assembly Programming
