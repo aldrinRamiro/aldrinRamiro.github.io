@@ -13,7 +13,7 @@
     <ul class="list-unstyled contact-list">
 
       {% if site.email %}
-      <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">Email Me</a></li>
+      <li class="email"><i class="fa fa-envelope"></i>{{site.email}}</li>
       {% endif %}  {% if site.website %}
       <li class="website"><i class="fa fa-globe"></i><a href="http://{{site.website}}" target="_blank">{{site.website}}</a></li>
       {% endif %} {% if site.linkedin %}
