@@ -1,4 +1,4 @@
-- name: Introduction to Computer Science (CSC148)
+- name: Introduction to Computer Science
   school: University of Toronto
   date: Jan-Apr 2017
   details:
@@ -8,7 +8,7 @@
     - point: Sorting
     - point: Efficiency
 
-- name: Software Design (CSC207)
+- name: Software Design
   school: University of Toronto
   date: Sept-Dec 2017
   details:
@@ -19,7 +19,7 @@
     - point: Design Patterns
     - point: Regex
 
-- name: Introduction to the Theory of Computation (CSC236)
+- name: Introduction to the Theory of Computation
   school: University of Toronto
   date: Sept-Dec 2017
   details:
@@ -28,7 +28,7 @@
     - point: Program Efficiency (Recursive Algorithms)
     - point: Invariants
 
-- name: Software Tools and Systems Programming (CSC209)
+- name: Software Tools and Systems Programming
   school: University of Toronto
   date: Jan-Apr 2018
   details:
@@ -36,7 +36,7 @@
     - point: Memory Model
     - point: Systems Structures (Files, Sockets, Processes)
 
-- name: Computer Organization (CSC258)
+- name: Computer Organization
   school: University of Toronto
   date: Jan-Apr 2018
   details:
