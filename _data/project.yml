@@ -1,3 +1,11 @@
-- name: Project 1
+- name: Paint Program
   link: #
-  description: #
+  description: Worked in a group of 4 to create a paint program using Java. Project was managed using AGILE Scrum method. Please contact me if you are interested in viewing the project as it is a school assignment.
+
+- name: Discord Chat Bot
+  link: https://github.com/aldrinRamiro/Discord-Chat-Bot
+  description: Discord bot created in Java using the JDA Discord API wrapper. Allows users to interact with the bot using commands.
+
+- name: Twitch Chat Bot
+  link: https://github.com/aldrinRamiro/twitch_bot
+  description: Twitch chat bot created in JavaScript and Node.js. Monitors chat through an IRC interface, and interacts with the chat depending on messages sent by users.
